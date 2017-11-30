@@ -8,4 +8,4 @@ Haskell and Clojure
 [Learn more about it.](http://adventofcode.com/about)
 
 Completed:
-  - [2015](http://adventofcode.com/2015) - Day 2
+  - [2015](http://adventofcode.com/2015) - Day 3

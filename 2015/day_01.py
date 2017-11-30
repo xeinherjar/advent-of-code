@@ -1,4 +1,3 @@
-
 def run():
     floor = 0
     basement = 0
